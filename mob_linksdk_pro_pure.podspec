@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 	s.name                = "mob_linksdk_pro_pure"
 
-	s.version             = "0.0.2"
+	s.version             = "3.3.7"
 
 	s.summary             = 'moblinkpro纯净版，无SDK版本，mob.com网页一键唤醒App并到达指定内页SDK,原Pod名称为:MobLink,请知悉～'
 	s.license             = 'Copyright © 2012-2017 mob.com'
